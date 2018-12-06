@@ -1,2 +1,2 @@
 # qqme
-staff of Chinese company
+a staff of Chinese company
